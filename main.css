@@ -7,3 +7,14 @@
 article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
     display:block;
 }
+header{
+	background:#D5AE41;
+	color:#343148;
+	font-size: 2rem;
+}
+nav{
+	background:#766F57
+}
+body{
+	background: #F0EDE5;
+}
