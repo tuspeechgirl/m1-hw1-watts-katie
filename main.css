@@ -10,11 +10,12 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
 header{
 	background:#D5AE41;
 	color:#343148;
-	font-size: 2rem;
+	font-size: 1.5rem;
 }
 nav{
 	background:#766F57
 }
 body{
 	background: #F0EDE5;
+	font-family: arial;
 }
