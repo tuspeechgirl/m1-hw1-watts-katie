@@ -13,9 +13,16 @@ header{
 	font-size: 1.5rem;
 }
 nav{
-	background:#766F57
+	background:#766F57;
+	padding: 2%;
+}
+nav ul li{
+	display: inline;
+	color: #F0EDE5;
+	padding-right: 10%;
 }
 body{
 	background: #F0EDE5;
 	font-family: arial;
+
 }
